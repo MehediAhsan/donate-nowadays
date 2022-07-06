@@ -36,3 +36,70 @@
     border-radius: 5px;
     color: white;
 }
+.donate-today{
+    width: 80%;
+    margin: 80px auto;
+    text-align: center;
+}
+.donate-today-description{
+    width: 60%;
+    margin: 50px auto;
+}
+.donate-today-description h1{
+    color: #121212;
+    font-family: 'Inter', sans-serif;
+    font-size: 32px;
+    font-weight: 1000;
+}
+.donate-today-description p{
+    color: #707070;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    margin: 20px auto;
+}
+.donate-today-money{
+    font-family: 'Inter', sans-serif;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+}
+.donate-tk{
+    background-color: #FAFAFA;
+    color:  #707070;
+    width: 120px;
+    height: 100px;
+    border-radius: 5px;
+    margin-left: 20px;
+    text-align: center;
+}
+.donate-tk-first{
+    margin-left: 0px;
+}
+.donate-tk h1{
+    margin: 32px auto;
+}
+.donate-tk-click{
+    background-color: #FFEEEE;
+    color: #FF5959;
+    border: 2px solid #FF5959;
+}
+.donate-today-sendmoney{
+    width: 70%;
+    justify-content: center;
+    margin: 0 auto;
+}
+.donate-today-sendmoney input[type=text] {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 14px;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 40px auto;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid #DADADA;
+}
+::placeholder{
+    color: #B3B3B3;
+}
