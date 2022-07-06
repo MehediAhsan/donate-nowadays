@@ -162,6 +162,56 @@
 .card3{
     background-color: #FFF4D6
 }
+.get-my-updates{
+    width: 80%;
+    margin: 110px auto;
+    text-align: center;
+}
+.get-my-updates-description{
+    width: 60%;
+    margin: 50px auto;
+}
+.get-my-updates-description h1{
+    color: #121212;
+    font-family: 'Inter', sans-serif;
+    font-size: 32px;
+    font-weight: 1000;
+}
+.get-my-updates-description p{
+    color: #707070;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    margin: 20px auto;
+}
+.get-my-updates-content{
+    width: 70%;
+    height: 150px;
+    background-color: #FFF4D6;
+    margin: 0 auto;
+}
+.get-my-updates-submit{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+}
+.get-my-updates-submit input[type=email]{
+    background: #D9D9D9;
+    border-radius: 5px 0px 0px 5px;
+    border: none;
+    padding: 7px 18px;
+    margin-top: 50px;
+}
+.subscribe-button{
+    text-decoration: none;
+    padding: 7px 30px;
+    color: white;
+    background: #FF5959;
+    border-radius: 0px 5px 5px 0px;
+    margin-left: -5px;
+    padding-bottom: 7px;
+    font-size: 14px;
+}
 footer{
     background-color: #0B0D17;
     width: 100%;
