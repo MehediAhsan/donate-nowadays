@@ -162,3 +162,21 @@
 .card3{
     background-color: #FFF4D6
 }
+footer{
+    background-color: #0B0D17;
+    width: 100%;
+    text-align: center;
+    height: 150px;
+}
+footer h1{
+    font-family: 'Lobster', cursive;
+    color: #FF5959;
+    line-height: 3;
+    font-size: 30px;
+    font-weight: 500;
+}
+footer p{
+    font-family: 'Manrope', sans-serif;
+    color: #D9DBE1;
+    font-size: 8px;
+}
